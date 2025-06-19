@@ -1,5 +1,8 @@
+# virtual environments
 brenv
 brenv/
 .brenv
 .env
+
+# datasets
 dataset
